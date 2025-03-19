@@ -33,8 +33,12 @@
       <br>
 </div><br>
 
-<!-- stats -->
-![Dony's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOOHD&show_icons=true&theme=merko)
-
-<!-- most language -->
-﻿![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOOHD&langs_count=10&layout=compact&theme=merko)﻿
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JOOHD&show_icons=true&theme=merko" height="180px"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOOHD&langs_count=10&layout=compact&theme=merko" height="180px"/>
+  
+</div>﻿
