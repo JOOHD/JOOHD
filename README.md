@@ -31,7 +31,8 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">     
       <br>
-</div><br>
 
 ![](https://github.com/JOOHD/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/JOOHD/github-stats-transparent/blob/output/generated/languages.svg)﻿
+![](https://github.com/JOOHD/github-stats-transparent/blob/output/generated/languages.svg)
+
+</div>
