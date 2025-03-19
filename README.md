@@ -2,7 +2,7 @@
       
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=HyunDon%20JOO&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=JOOHD&descSize=25&descAlign=85&descAlignY=50)
 
-<h1 align="center">📚 STACKS</h1>
+<h1 align="center">🛠 STACKS</h1>
 <p align="center">
       <!-- lang -->
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
