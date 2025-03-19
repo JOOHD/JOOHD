@@ -33,11 +33,15 @@
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">     
       <br>
 </p>
+</div>
 
-<!-- GitHub Stats -->8
+<div align="center">
+  
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=JOOHD&show_icons=true&theme=merko" height="180px"/>
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOOHD&langs_count=10&layout=compact&theme=merko" height="180px"/>
-
+  
 </div>
+
