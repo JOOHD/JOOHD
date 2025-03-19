@@ -21,8 +21,7 @@
       <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">   
       <br>
-      <!-- Tool -->
-      <img src="https://img.shields.io/badge/jsonwebtokens-#000000?style=for-the-badge&logo=jsonwebtokens-&logoColor=white">  
+      <!-- Tool --> 
       <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
       <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
