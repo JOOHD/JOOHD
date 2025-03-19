@@ -34,7 +34,10 @@
       <br>
 </p>
 
-![](https://github.com/JOOHD/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/JOOHD/github-stats-transparent/blob/output/generated/languages.svg)
+<!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JOOHD&show_icons=true&theme=merko" height="180px"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOOHD&langs_count=10&layout=compact&theme=merko" height="180px"/>
 
 </div>
