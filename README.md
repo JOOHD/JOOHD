@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=HyunDon%20JOO&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=JOOHD&descSize=25&descAlign=85&descAlignY=50)
 
-<h1 align="center">🛠 NewShop Core Stack</h1>
+<h1 align="center">🛠 Core Stack</h1>
 
 <p align="center">
   <!-- Language -->
@@ -14,6 +14,13 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+  <br/>
+
+  <!-- Front (SSR & Client) -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 
   <br/>
 
@@ -29,23 +36,14 @@
 
   <br/>
 
-  <!-- Infra (선택: 쓰면 남기고, 아니면 삭제) -->
+  <!-- Infra -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
   <br/>
 
   <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 </div>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-steel-xi-80.vercel.app/api?username=JOOHD&show_icons=true&theme=merko" height="180px"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-steel-xi-80.vercel.app/api/top-langs/?username=JOOHD&langs_count=10&layout=compact&theme=merko" height="180px"/>
-</p>
